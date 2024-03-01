@@ -1,0 +1,16 @@
+TEXTO endereco 
+TEXTO telefone
+REAL salario
+TEXTO cpf
+REAL preco
+REAL temperatura
+BOOLEANA casado
+DATA nascimento
+BOOLEANA vacinado
+REAL preco_gasolina
+INTEIRO litros_gasolina
+REAL preco_pao
+TEXTO total_compras
+TEXTO idade
+DATA data_contrato
+TEXTO nivel_escolaridade
